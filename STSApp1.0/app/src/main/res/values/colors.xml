@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ED1F24</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="oajaLuiTheo">#B71C1C</color>
+    <color name="griCacaniu">#757575</color>
+    <color name="gri2">#E0E0E0</color>
+    <color name="albSpalacit">#FAFAFA</color>
+    <color name="negruSmen">#212121</color>
+    <color name="colorRedDark1">#6E0F05</color>
+    <color name="colorRedLessDark1">#AD1708</color>
+</resources>

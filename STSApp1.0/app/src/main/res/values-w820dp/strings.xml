@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="despre">About</string>
+    <string name="program">Program</string>
+    <string name="votul_publicului">Votul Publicului</string>
+    <string name="insert_email">Insert email</string>
+</resources>

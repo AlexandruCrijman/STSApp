@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">STS 2016</string>
+    <string name="despre">Despre STS</string>
+    <string name="program">Program</string>
+    <string name="votul_publicului">Votul Publicului</string>
+    <string name="insert_email">Introdu mailul</string>
+    <string name="login">Autentificare</string>
+    <string name="firstname">* Prenume</string>
+    <string name="lastname">* Nume</string>
+    <string name="phone">Număr de telefon</string>
+    <string name="email">* Email</string>
+    <string name="register">Înregistrează-te</string>
+    <string name="about_text"><![CDATA[
+<p>
+<b>Serile Teatrului Studenţesc</b>, primul festival cultural-teatral pentru studenţi din România,
+organizat de Sindicatul Studenţilor din Facultatea de Cibernetica, revine şi în acest an pentru voi.
+</p>
+<p> Vino să petreci cinci seri de neuitat, în perioada
+<b> 18-22 aprilie </b>, delecându-te cu spectacole memorabile susţinute de actori din toată ţara
+<b> pe scena Casei de Cultură a Studenţilor, Bucureşti! </b>
+</p>
+<p>
+Cea de-a XVIII+a ediţie are ca temă <b>“Viaţa ca o loterie”</b> căci, zilnic ne asumăm riscuri.
+Viaţa nu este o certitudine, ci un mister total pe care noi îl adâncim, din ce în ce mai tare, cu fiecare alegere pe care o facem.
+</p>
+ <center><b>INTRAREA ESTE LIBERĂ!</b></center>
+ ]]></string>
+    <string name="exemple"> <![CDATA[This is <font color="#0000FF">blue  </font>]]></string>
+    <string name="exemplu_text_descriere">              Un cuplu abia mutat în București trăiește o relație perfectă până când un câine ajunge să le "ronțăie" relația. Astfel, ia naștere un război între o femeie și o femelă. David își iubește noul partener atât de mult încât nu îi mai dă atenție nici iubitei și nici locului de muncă.
+
+O comedie canină despre cum un animal mic și simpatic reușește să tulbure liniștea unei relații, să pună la îndoială iubirea și să pericliteze un mariaj.
+</string>
+    <string name="day1_0_band_name">UNATC</string>
+    <string name="day1_0_play_name">Viaţă la puterea a treia</string>
+    <string name="day1_1_band_name">Bombolino</string>
+    <string name="day1_1_play_name">Spectacol de varietăţi</string>
+
+    <string name="day1_0_description">Patru personaje, aproape cinci. Aceeaşi seară de trei ori. Trei şanse de a ordona universul. Un cuvânt în plus sau în minus, un simplu gest sau o privire pot schimba direcţia spre care se îndreaptă viaţa personajelor. Yasmina Reza propune un joc cu reguli stricte, un univers foarte bine conturat, în care fiecare personaj luptă pentru propriile aspiraţii, orgolii sau, mai simplu spus, pentru viaţa lor. Dar ce înseamnă viaţa în acest infinit de necunoscute? Vă invităm să descoperiţi o variantă la puterea a treia!</string>
+    <string name="day1_1_description">	Spectacolul acesta este inspirat de întâmplări din viața imaginară a unei persoane oarecare, întâmplări contaminate de retrospectivele nenumărate ale momentelor umoristice ce populau televizorul român în anii 60-70. Spectacolul acesta nu are actori cunoscuți și nici un regizor prestigios, nu are un decor impresionant sau un text împrumutat de la marii clasici, dar el este viu, poate că este și relevant. Acest lucru e greu de cuantificat după cum bine știți. Dar, mai degrabă, nu este nici viu și nici relevant. Are muzică, are glume, are și niște poezie. Poate că are și preconcepții. Poate și orgoliu. Dar, mai degraba, nu are nici preconcepții și nici orgoliu. Totuși, nu e o ființă. Nu face cumpărături. Nu se spală pe ochi. Sau la... Mă rog, vorba lungă, primejdia omului. El, spectacolul, vă așteaptă, deși, mai degrabă, am fi tentați să credem că nu e în stare de o asemenea ipostază pe care ne-am obișnuit să o observăm doar la oameni și nu la un copac sau o omidă.</string>
+    <string name="day2_0_band_name">Ştrengar</string>
+    <string name="day2_0_play_name">Puşlamaua</string>
+    <string name="day2_1_band_name">Trupa SiSC</string>
+    <string name="day2_1_play_name">Eu sau banii?</string>
+    <string name="day2_0_description">Francois Moulin, un Don Juan trecut de prima tinerețe, dar încă fermecător, se pare, face un slalom sentimental între patru femei (fosta și actuala soție și cele două amante, dintre care una e pe cale să devina fosta), dar cum urciorul nu merge de multe ori la apă, toată “distracţia” lui îl poate costa viața, chiar de ziua lui. „Pușlamaua” este o comedie bulevardieră, cu un comic spumos de situații și limbaj, cu un ritm alert care vă va ține curiozitatea trează. Vă invităm să aflați dacă Francois reușește să scape viu din încurcăturile pe care el, însuși le-a creat sau.... din contră, este pe cale să se îndrepte către alte aventuri. Poate fi o lecție pentru infidelitatea cronică a unor bărbați? Vă așteptăm să ne spuneți dumneavoastră dacă femeile reușesc să îl vindece definitiv!</string>
+    <string name="day2_1_description">Henry Perkins, un funcționar amărât, duce o viață destul de banală. Într-o buna zi, el schimbă din greșeală servieta cu un alt bărbat și în loc de obişnuitul sandwich cu brânza şi actele sale, descoperă cinci milioane de dolari înăuntrul ei. Aflând de noua avere, Jane, soția lui Henry nu primește vestea foarte bine. Servieta cu pricina aparține unei temute bande mafiote care nu se va da în lături de la nimic pentru a-și recupera banii. Nici Henry nu se lasă mai prejos: el vede deja biletul lor pentru o viața mai bună, însă, planurile îi sunt încurcate de cina organizată de soţie în cinstea zilei sale de naştere, de cei doi prieteni invitaţi, de taximetrista chemată să-i ducă la aeroport, de vecinul iubitor de bărbați şi de ce doi poliţişti ce apar pe nepusă masă, din cu totul alte motive decât cele pe care şi le închipuie Henry.</string>
+    <string name="day3_0_band_name">Teatrul de nisip</string>
+    <string name="day3_0_play_name">Bordel 360</string>
+    <string name="day3_1_band_name">Cuibul Artistilor</string>
+    <string name="day3_1_play_name">Amor</string>
+    <string name="day3_2_band_name">UNATC</string>
+    <string name="day3_2_play_name">Barbă albastră, speranţa femeilor</string>
+    <string name="day3_0_description">Bordel 360° este povestea unor opțiuni greșite care sunt camuflate în interiorul unor ambalaje frumoase. Costume, machiaj, parfum cu iz de show musical invită spectatorul într-o călătorie spre o realitate ignorată: traficul de carne vie. Evident, știm că prostituția e ceva ilegal, imoral, greșit și, totuși...este opțiunea unora. De ce? Sărăcia? Da! Ignoranța? Probabil. Adevărul e că, uneori, e pur și simplu o alegere atrăgătoare ce stă sub semnul promisiunii unei vieți mai bune, mai bogate, mai ușoare. Bordel 360° este un spectacol despre acele momente în care ne lăsăm păcăliți de propriile vise ce, fără să ne dăm seama, au devenit iluzii care ne distrug încet.</string>
+    <string name="day3_1_description">Un cuplu abia mutat în București trăiește o relație perfectă până când un câine ajunge să le "ronțăie" relația. Astfel, ia naștere un război între o femeie și o femelă. David își iubește noul partener atât de mult încât nu îi mai dă atenție nici iubitei și nici locului de muncă. O comedie canină despre cum un animal mic și simpatic reușește să tulbure liniștea unei relații, să pună la îndoială iubirea și să pericliteze un mariaj.</string>
+    <string name="day3_2_description" />
+    <string name="day4_0_band_name">Cuibul Artiștilor</string>
+    <string name="day4_0_play_name">Ambrios</string>
+    <string name="day4_1_band_name">Fabulinus</string>
+    <string name="day4_1_play_name">Harap-Alb</string>
+    <string name="day4_2_band_name">Trupa Protha</string>
+    <string name="day4_2_play_name">Oscar şi Tanti Roz</string>
+    <string name="day4_3_band_name">Trupa nr. 9</string>
+    <string name="day4_3_play_name">Almost, Maine</string>
+    <string name="day4_0_description">	Povestea are loc într-un spațiu inexistent pe harta lumii. Un spirit are în grijă o cabană, care se umple rând pe rând cu personaje aflate în derivă. Se formează astfel o comunitate care trece de la suspiciuni și conflicte, la afecțiune, emoție, povești de dragoste, culminând cu o iubire intangibilă între spirit și una dintre fete.
+ 	Ambrios este metafora unei povești în care manipularea, fuga continuă fără sens, agitația, stresul, oboseala, dezechilibrul si epuizarea își fac apariția într-o comunitate care a fost creată în armonie.
+  	Este imposibil să nu te regăsești în rama ce este pusa pe scena, este imposibil să nu simți că faci parte din același tablou cu oamenii din fața ta, din stânga, din dreapta, de oriunde.</string>
+    <string name="day4_1_description"> </string>
+    <string name="day4_2_description"></string>
+    <string name="day4_3_description">ALMOST, MAINE este o serie de şase scene cu caracter absurd. Aceste scene au ca subiect dragostea în diversele ei forme ce se află la graniţa dintre real şi magic. De cele mai multe ori, cu note de absurd, dragostea apare ca şi pierdere, alteori, ca regăsire. Almost, Maine pune foarte multe întrebări, oferă puţine răspunsuri şi nu lasă loc de: au trăit fericiţi până la adânci bătrâneţi. Textul este bogat în metafore şi alegorii, cu personaje familiare, situaţii în care am fost cu toţii şi concluzii la care nu ne aşteptam.</string>
+    <string name="day5_0_band_name">UNATC</string>
+    <string name="day5_0_play_name">Exerciţiu Commedia dell Arte</string>
+    <string name="day5_1_band_name">UNATC</string>
+    <string name="day5_1_play_name">Treapta a noua</string>
+    <string name="day5_2_band_name">UNATC</string>
+    <string name="day5_2_play_name">Ce formidabilă harababură</string>
+    <string name="day5_0_description"></string>
+    <string name="day5_1_description">Piesa lui Tom Ziegler, „Treapta a noua“, este povestea unei mame – Joanna McNeil - care s-a tratat de-a lungul a șase ani de alcoolism și care încearcă acum, cu ajutorul prietenei sale Eleanor Houser, să repare răul pe care l-a făcut familiei sale din cauza dependeței de alcool. Acțiunea se desfășoară de-a lungul unei singure zile în care Melissa Wright, fiica sa de 16 ani, vine în vizită la mama sa, prima oară după o despărțire de 6 ani. Principalul scop al invitației este acela că Joanna vrea să-și ceară iertare și speră să reînnoade relația cu fiica sa. În acest proces de vindecare descoperă că Melissa este în egală măsură bolnavă de alcoolismul mamei sale, dezvoltând fenomenul cunoscut drept co-dependență. Cu ajutorul lui Eleanor și, paradoxal, al unor încurcături determinate de apariția inopinată a lui Tracy – o adolescentă alcoolică și toxicomană, cele două reușesc să depășească această etapă importantă, iar Joanna trece de la pasul al nouălea pe treptele de vindecare a alcoolismului – pasul iertării, la pasul al doisprezecelea, în care fostul alcoolic se concentrează pe vindecarea membrilor afectați ai familiei și refacerea unor relații familiale sănătoase.</string>
+    <string name="day5_2_description"></string>
+    <string name="sign_in_top_text">Înregistreză-te şi votează-ţi trupa preferată</string>
+    <string name="vot_for_win_top_text">Alegeţi trupa preferată</string>
+    <string name="login_title">Autentificare</string>
+    <string name="login_text_mail">Mail invalid</string>
+    <string name="login_alerg_dialog_message">Doriţi să vă înregistraţi?</string>
+    <string name="sign_in_bottom_description">* Câmpuri obligatorii</string>
+    <string name="title_activity_tab_program">TabProgramActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tab_program2">TabProgram2Activity</string>
+
+
+</resources>

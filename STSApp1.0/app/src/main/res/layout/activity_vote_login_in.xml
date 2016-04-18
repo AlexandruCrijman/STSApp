@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_background"
+    android:focusable="true"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".activities.VoteLoginInActivity">
+
+    <com.alexcrijman.stsapp10.uitls.EditTextModif
+        android:id="@+id/autentif_email_et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/autentif_btn"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:background="@color/albSpalacit"
+
+        android:gravity="center"
+        android:hint="@string/insert_email"
+        android:inputType="textPersonName"
+        android:padding="5dp"
+        android:textColor="@color/griCacaniu"
+        android:textCursorDrawable="@drawable/cursor_edited"
+
+        />
+
+    <Button
+        android:id="@+id/autentif_btn"
+        style="@style/mainButtons"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="33dp"
+        android:background="@drawable/mybutton"
+        android:focusable="true"
+        android:text="@string/login" />
+
+
+</RelativeLayout>
